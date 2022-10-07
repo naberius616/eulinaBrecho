@@ -186,7 +186,7 @@ header nav ul li:hover::after {
 
 /*Footer*/
 footer {
-  background-color: rgb(255, 255, 255);
+  background-color: #fff;
 }
 
 footer .copyright  {
